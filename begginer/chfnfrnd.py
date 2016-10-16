@@ -9,7 +9,7 @@ def main():
 		for i in range(0,pairs):
 			listOfPairs.append(raw_input().split())
 
-		print listOfPairs
+		print (listOfPairs)
 
 
 		t-=1

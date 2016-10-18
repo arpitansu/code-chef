@@ -8,7 +8,7 @@ for _ in xrange(input()):# testcases
 	part1 = a[0:len(a)/2] # dividing part 1 and 2 to half of the list a 
 	part2 = a[len(a)/2:]
 
-	if Counter(part1) == Counter(part2): # counting occurance of words Frequency and checkingin both if they are equal
+	if Counter(part1) == Counter(part2): #counting occurance of words Frequency and checkingin both if they are equal
 		print ('YES')
 	else:
 		print ('NO')

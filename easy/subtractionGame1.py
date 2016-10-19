@@ -1,5 +1,5 @@
 # this file has two algo's 
-
+#choose only one and comment out other
 
 # this is pure logic
 for _ in xrange(input()):# testcases
